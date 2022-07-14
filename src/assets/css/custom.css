@@ -1,0 +1,32 @@
+.main{
+    background-color: #967b4f;
+    padding: 50px;
+    border-radius: 20px;
+}
+.home{
+    background-color: #ffefd4;
+    padding: 80px;
+
+}
+.content{
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.content-body{
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
